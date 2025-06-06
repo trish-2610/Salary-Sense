@@ -10,11 +10,14 @@ A deep learning project to predict estimated salary of customers using **Artific
 - **Task**: Regression
 - **Objective**:  
   Predict the esimated salary of coustomers based on their profile data like:
-  - Gender
-  - Age
-  - Tenure
-  - Balance
-  - etc.
+ - CreditScore
+ - Geography
+ - Gender
+ - Age
+ - Tenure
+ - Balance
+ - NumOfProducts
+- etc.
 
 ---
 
