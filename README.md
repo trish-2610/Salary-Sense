@@ -1,5 +1,5 @@
-# 🔄 Salary Prediction Model using ANN
-
+# 🔄 Salary-Sense
+#### A salary prediction model built using ANN
 A deep learning project to predict estimated salary of customers using **Artificial Neural Networks (ANN)**, implemented with **TensorFlow** and **Keras**.
 
 ---
