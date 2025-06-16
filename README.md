@@ -1,15 +1,14 @@
-# 🔄 Salary-Sense
+## Salary-Sense
 #### A salary prediction model built using ANN
 A deep learning project to predict estimated salary of customers using **Artificial Neural Networks (ANN)**, implemented with **TensorFlow** and **Keras**.
 
 ---
 
-## 📊 Problem Statement
+###  Problem Statement
 
 - **Dataset**: `Churn_Modelling.csv`
 - **Task**: Regression
-- **Objective**:  
-  Predict the esimated salary of coustomers based on their profile data like:
+- **Objective** : Predict the esimated salary of coustomers based on their profile data like:
  - CreditScore
  - Geography
  - Gender
@@ -21,7 +20,7 @@ A deep learning project to predict estimated salary of customers using **Artific
 
 ---
 
-## 🛠 Project Pipeline
+### Project Pipeline
 
 ```mermaid
 graph LR
